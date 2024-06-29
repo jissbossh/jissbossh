@@ -1,7 +1,5 @@
 ## Hello, my name is Jorge Ivan Sierra Suarez 👋
 ## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋
-
-Facebook[Facebook](https://www.facebook.com/jissbossh)
 <!--
 **JISSBOSSH/jissbossh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
