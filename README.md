@@ -1,4 +1,5 @@
-## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋 
+## Hello, my name is Jorge Ivan Sierra Suarez 👋
+## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋
 
 <!--
 **JISSBOSSH/jissbossh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
