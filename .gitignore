@@ -2,6 +2,10 @@
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
 .vscode/
+#launch.json folder
+.cspell/
+#launch.json folder
+.dist/
 #Cache folder
 .alcache/
 #Symbols folder
@@ -20,3 +24,5 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+#Rapid Application Development File
+cspell.json
