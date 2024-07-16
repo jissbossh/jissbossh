@@ -1,6 +1,6 @@
-## Hello, my name is Jorge Ivan Sierra Suarez 👋<br>Software Developer
+## Hello, my name is Jorge Ivan Sierra Suarez 👋<br>👨‍💻 Software Developer
 
-## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋<br>Desarrollador de Software
+## Hola, mi nombre es Jorge Ivan Sierra Suarez 👋<br>👨‍💻 Desarrollador de Software
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jissbossh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
