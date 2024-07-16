@@ -7,9 +7,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jissbossh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
+
+<div align="center"><img src="https://visitor-badge.laobi.icu/badge?page_id=jissbossh.jissbossh&"/></div>
+
 ##
 
-### My social networks<br>Mis redes sociales
+###
+
+### 🌍🔗<br>My social networks<br>Mis redes sociales
+
 ###
 
 <div align="center"><a href="https://app.aluracursos.com/user/jissbossh
@@ -17,12 +24,13 @@
 
 ##
 
-### Views<br>Vistas
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/jissbossh/count.svg?"  />
-</div>
+### 🔎<br>Views<br>Vistas
+
+###
+
+<div align="center"><img src="https://profile-counter.glitch.me/jissbossh/count.svg?"/></div>
 
 ###
 <!--
