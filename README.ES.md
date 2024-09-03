@@ -82,7 +82,16 @@
 <hr>
 
 ## </> Lenguages:
-<div align="left"></div>
+<div align="left">
+<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
+<a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
+<a href="https://www.oracle.com/es/java/" target="_blank"><img src="assets/icons/techs/svg/java/default.svg" width="52" height="40" alt="Java logo"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="assets/icons/techs/svg/javascript/default.svg" width="52" height="40" alt="JavaScript logo"/></a>
+<a href="https://www.php.net/manual/es/" target="_blank"><img src="assets/icons/techs/svg/php/default.svg" width="52" height="40" alt="Php logo"/></a>
+<a href="https://docs.python.org/es/3/" target="_blank"><img src="assets/icons/techs/svg/python/default.svg" width="52" height="40" alt="Phython logo"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="assets/icons/techs/svg/html/default.svg" width="52" height="40" alt="Html logo"/></a>
+<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="assets/icons/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
+</div>
 
 <hr>
 
