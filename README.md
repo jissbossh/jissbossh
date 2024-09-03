@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/images/techs/jpg/banner/developer.jpg" width="52" height="40" alt="Alura logo"/>
+<img src="assets/images/techs/jpg/banner/developer.jpg" alt="Banner"/>
 </div>
 
 <hr>
