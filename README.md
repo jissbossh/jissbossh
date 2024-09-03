@@ -85,9 +85,17 @@
 <hr>
 
 ## </> Languages:
-<div align="left"></div>
-<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
-<a href="https://www.oracle.com/co/java/" target="_blank"><img src="assets/icons/techs/svg/java/default.svg" width="52" height="40" alt="C# logo"/></a>
+<div align="left">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="assets/icons/techs/svg/java/default.svg" width="52" height="40" alt="Java logo"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank"><img src="assets/icons/techs/svg/javascript/default.svg" width="52" height="40" alt="JavaScript logo"/></a>
+<a href="https://www.php.net/manual/en/" target="_blank"><img src="assets/icons/techs/svg/php/default.svg" width="52" height="40" alt="Php logo"/></a>
+<a href="https://docs.python.org/3/" target="_blank"><img src="assets/icons/techs/svg/python/default.svg" width="52" height="40" alt="Phython logo"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/HTML" target="_blank"><img src="assets/icons/techs/svg/html/default.svg" width="52" height="40" alt="Html logo"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/CSS" target="_blank"><img src="assets/icons/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
+</div>
+
 <hr>
 
 ## 📊 GitHub Stats:
