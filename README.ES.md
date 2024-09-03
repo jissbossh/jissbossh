@@ -1,3 +1,9 @@
+<div align="center">
+<img src="assets/images/techs/jpg/banner/developer.jpg" alt="Banner"/>
+</div>
+
+<hr>
+
 # 💫 Acerca de mí:
 <div align="left">
 👋 Hola, mi nombre es Jorge Ivan Sierra Suarez <br>👨‍💻 Soy Desarrollador de Software
