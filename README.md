@@ -4,15 +4,15 @@
 
 <hr>
 
-# 💫 About Me:
+# 💫 Acerca de mí:<br><hr style="border: 2px solid black;">
 <div align="left">
-👋 Hello, my name is Jorge Ivan Sierra Suarez <br>👨‍💻 I’m Software Developer
-<a href="README.ES.md" target="_blank">For more details in Spanish, see 
+👋 Hola, mi nombre es Jorge Ivan Sierra Suarez <br>👨‍💻 Soy Desarrollador de Software
+<a href="README.md" target="_blank">Para más detalles en inglés, consulta 
 </div>
 
 <hr>
 
-## 🌐 Socials:
+## 🌐 Sociales:<br><hr style="border: 2px solid black;">
 <!--[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jissbossh)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jissbossh)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jissbossh)
@@ -29,16 +29,15 @@
 [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/jissbossh)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@jissbossh)
 
-<hr>
--->
+<hr>-->
+
 <div align="center">
   <a href="https://app.aluracursos.com/user/jissbossh
 " target="_blank"><img src="assets/icons/social/svg/alura/default.svg" width="52" height="40" alt="Alura logo"/></a>
   <a href="https://dev.to/jissbossh" target="_blank"><img src="assets/icons/social/svg/devto/default.svg" width="52" height="40" alt="Dev.To logo"/></a>
   <a href="https://discord.gg/JGSBF8UMup
 " target="_blank"><img src="assets/icons/social/svg/discord/default.svg" width="52" height="40" alt="Discord logo"/></a>
-  <a href="https://www.facebook.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/facebook/default.svg" width="52" height="40" alt="Facebook logo"/></a>
-  <a href="https://gitlab.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/gitlab/default.svg" width="52" height="40" alt="GitLab logo"/></a>
+  <a href="https://www.facebook.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/facebook/default.svg" width="52" height="40" alt="Facebook logo"/></a>  
   <a href="https://www.instagram.com/jissbossh"><img src="assets/icons/social/svg/instagram/default.svg" width="52" height="40" alt="Instagram logo"/></a>
   <a href="https://www.linkedin.com/in/jissbossh"><img src="assets/icons/social/svg/linkedin/default.svg" width="52" height="40" alt="Linkedin logo"/></a>
   <a href="https://www.threads.net/@jissbossh"><img src="assets/icons/social/svg/threads/default.svg" width="52" height="40" alt="Threads logo"/></a>
@@ -46,11 +45,14 @@
   <a href="https://www.twitch.tv/jissbossh"><img src="assets/icons/social/svg/twitch/default.svg" width="52" height="40" alt="Twitch logo"/></a>
   <a href="https://x.com/jissbossh"><img src="assets/icons/social/svg/x/default.svg" width="52" height="40" alt="X logo"/></a>
   <a href="https://www.youtube.com/@jissbossh"><img src="assets/icons/social/svg/youtube/default.svg" width="52" height="40" alt="Youtube logo"/></a>
+  <a href="https://github.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/github/default.svg" width="52" height="40" alt="GitHUb logo"/></a>
+  <a href="https://gitlab.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/gitlab/default.svg" width="52" height="40" alt="GitLab logo"/></a>
+  <a href="https://bitbucket.org/jissbossh/jissbossh" target="_blank"><img src="assets/icons/social/svg/bitbucket/default.svg" width="52" height="40" alt="BitBucket logo"/></a>
 </div>
 
 <hr>
 
-## 💻 Technologys:
+## 💻 Tecnologías:
 <!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -90,7 +92,7 @@
 
 <hr>
 
-## </> Languages:
+## <⁄> Lenguajes:<br><hr style="border: 2px solid black;">
 <div align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
@@ -104,7 +106,7 @@
 
 <!--<hr>
 
-## 📊 GitHub Stats:
+## 📊 Estadísticas de GitHub:
 <div align="left"> 
   <div align="left">
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=jissbossh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=500" alt="Github Stats"/>
@@ -119,20 +121,20 @@
 
 <hr>
 
-## 🔝 Top Contributed Repo:
+## 🔝 Repositorio más Contribuido:
 <div align="left"><img src="https://github-contributor-stats.vercel.app/api?username=jissbossh&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_contributor_rank=false"/>
 </div>
 
 <hr>
 
-## 🏆 GitHub Trophies:
+## 🏆 Trofeos de GitHub:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jissbossh&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 <hr>
 
-## 🧿 Visitors:
+## 🧿 Visitantes:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jissbossh.jissbossh&theme=radical&format=true" alt="Visitor badge"/>
   </div>
@@ -143,10 +145,9 @@
 
 <hr>
 
-## 👁 Views:
-<div align="center"><img src="https://profile-counter.glitch.me/jissbossh/count.svg?&theme=radical&format=true" height="40" width="200" try {
-alt="Visitor badge"/><hr>
-</div>-->
+## 👁 Vistos:
+<div align="center"><img src="https://profile-counter.glitch.me/jissbossh/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr>
+</div>--> 
 
 <!--
 Here are some ideas to get you started:
