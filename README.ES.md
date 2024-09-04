@@ -117,7 +117,7 @@
 <hr>
 
 ## 🔝 Repositorio más Contribuido:
-<div align="left"><img src="https://github-contributor-stats.vercel.app/api?username=jissbossh&limit=5&theme=radical&combine_all_yearly_contributions=true&&hide_contributor_rank=false"/>
+<div align="left"><img src="https://github-contributor-stats.vercel.app/api?username=jissbossh&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_contributor_rank=false"/>
 </div>
 
 <hr>
