@@ -4,7 +4,7 @@
 
 <hr>
 
-# 💫 Acerca de mí:
+# 💫 Acerca de mí:<br><hr style="border: 2px solid black;">
 <div align="left">
 👋 Hola, mi nombre es Jorge Ivan Sierra Suarez <br>👨‍💻 Soy Desarrollador de Software
 <a href="README.md" target="_blank">Para más detalles en inglés, consulta 
@@ -12,7 +12,7 @@
 
 <hr>
 
-## 🌐 Sociales:
+## 🌐 Sociales:<br><hr style="border: 2px solid black;">
 <!--[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jissbossh)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jissbossh)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jissbossh)
@@ -37,12 +37,17 @@
   <a href="https://dev.to/jissbossh" target="_blank"><img src="assets/icons/social/svg/devto/default.svg" width="52" height="40" alt="Dev.To logo"/></a>
   <a href="https://discord.gg/JGSBF8UMup
 " target="_blank"><img src="assets/icons/social/svg/discord/default.svg" width="52" height="40" alt="Discord logo"/></a>
-  <a href="https://www.facebook.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/facebook/default.svg" width="52" height="40" alt="Facebook logo"/></a>
-  <a href="https://gitlab.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/gitlab/default.svg" width="52" height="40" alt="GitLab logo"/></a><a href="https://www.instagram.com/jissbossh"><img src="assets/icons/social/svg/instagram/default.svg" width="52" height="40" alt="Instagram logo"/></a>
+  <a href="https://www.facebook.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/facebook/default.svg" width="52" height="40" alt="Facebook logo"/></a>  
+  <a href="https://www.instagram.com/jissbossh"><img src="assets/icons/social/svg/instagram/default.svg" width="52" height="40" alt="Instagram logo"/></a>
   <a href="https://www.linkedin.com/in/jissbossh"><img src="assets/icons/social/svg/linkedin/default.svg" width="52" height="40" alt="Linkedin logo"/></a>
-  <a href="https://www.threads.net/@jissbossh"><img src="assets/icons/social/svg/threads/default.svg" width="52" height="40" alt="Threads logo"/></a><a href="https://www.tiktok.com/@jissbossh"><img src="assets/icons/social/svg/tiktok/default.svg" width="52" height="40" alt="Tiktok logo"/></a>
+  <a href="https://www.threads.net/@jissbossh"><img src="assets/icons/social/svg/threads/default.svg" width="52" height="40" alt="Threads logo"/></a>
+  <a href="https://www.tiktok.com/@jissbossh"><img src="assets/icons/social/svg/tiktok/default.svg" width="52" height="40" alt="Tiktok logo"/></a>
   <a href="https://www.twitch.tv/jissbossh"><img src="assets/icons/social/svg/twitch/default.svg" width="52" height="40" alt="Twitch logo"/></a>
-  <a href="https://x.com/jissbossh"><img src="assets/icons/social/svg/x/default.svg" width="52" height="40" alt="X logo"/></a><a href="https://www.youtube.com/@jissbossh"><img src="assets/icons/social/svg/youtube/default.svg" width="52" height="40" alt="Youtube logo"/></a>
+  <a href="https://x.com/jissbossh"><img src="assets/icons/social/svg/x/default.svg" width="52" height="40" alt="X logo"/></a>
+  <a href="https://www.youtube.com/@jissbossh"><img src="assets/icons/social/svg/youtube/default.svg" width="52" height="40" alt="Youtube logo"/></a>
+  <a href="https://github.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/github/default.svg" width="52" height="40" alt="GitHUb logo"/></a>
+  <a href="https://gitlab.com/jissbossh/jissbossh" target="_blank"><img src="assets/icons/social/svg/gitlab/default.svg" width="52" height="40" alt="GitLab logo"/></a>
+  <a href="https://bitbucket.org/jissbossh/jissbossh" target="_blank"><img src="assets/icons/social/svg/bitbucket/default.svg" width="52" height="40" alt="BitBucket logo"/></a>
 </div>
 
 <hr>
@@ -87,16 +92,16 @@
 
 <hr>
 
-## </> Lenguajes:
+## <⁄> Lenguajes:<br><hr style="border: 2px solid black;">
 <div align="left">
-<a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
-<a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
-<a href="https://www.oracle.com/es/java/" target="_blank"><img src="assets/icons/techs/svg/java/default.svg" width="52" height="40" alt="Java logo"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank"><img src="assets/icons/techs/svg/javascript/default.svg" width="52" height="40" alt="JavaScript logo"/></a>
-<a href="https://www.php.net/manual/es/" target="_blank"><img src="assets/icons/techs/svg/php/default.svg" width="52" height="40" alt="Php logo"/></a>
-<a href="https://docs.python.org/es/3/" target="_blank"><img src="assets/icons/techs/svg/python/default.svg" width="52" height="40" alt="Phython logo"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank"><img src="assets/icons/techs/svg/html/default.svg" width="52" height="40" alt="Html logo"/></a>
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank"><img src="assets/icons/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="assets/icons/techs/svg/java/default.svg" width="52" height="40" alt="Java logo"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/JavaScript" target="_blank"><img src="assets/icons/techs/svg/javascript/default.svg" width="52" height="40" alt="JavaScript logo"/></a>
+<a href="https://www.php.net/manual/en/" target="_blank"><img src="assets/icons/techs/svg/php/default.svg" width="52" height="40" alt="Php logo"/></a>
+<a href="https://docs.python.org/3/" target="_blank"><img src="assets/icons/techs/svg/python/default.svg" width="52" height="40" alt="Phython logo"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/HTML" target="_blank"><img src="assets/icons/techs/svg/html/default.svg" width="52" height="40" alt="Html logo"/></a>
+<a href="https://developer.mozilla.org/en/docs/Web/CSS" target="_blank"><img src="assets/icons/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
 </div>
 
 <!--<hr>
@@ -142,7 +147,7 @@
 
 ## 👁 Vistos:
 <div align="center"><img src="https://profile-counter.glitch.me/jissbossh/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr>
-</div>-->
+</div>--> 
 
 <!--
 Here are some ideas to get you started:

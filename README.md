@@ -4,15 +4,15 @@
 
 <hr>
 
-# 💫 Acerca de mí:<br><hr style="border: 2px solid black;">
+# 💫 About Me:<br><hr style="border: 2px solid black;">
 <div align="left">
-👋 Hola, mi nombre es Jorge Ivan Sierra Suarez <br>👨‍💻 Soy Desarrollador de Software
-<a href="README.md" target="_blank">Para más detalles en inglés, consulta 
+👋 Hello, my name is Jorge Ivan Sierra Suarez <br>👨‍💻 I’m Software Developer
+<a href="README.ES.md" target="_blank">For more details in Spanish, see 
 </div>
 
 <hr>
 
-## 🌐 Sociales:<br><hr style="border: 2px solid black;">
+## 🌐 Socials:<br><hr style="border: 2px solid black;">
 <!--[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/jissbossh)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/jissbossh)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jissbossh)
@@ -46,13 +46,13 @@
   <a href="https://x.com/jissbossh"><img src="assets/icons/social/svg/x/default.svg" width="52" height="40" alt="X logo"/></a>
   <a href="https://www.youtube.com/@jissbossh"><img src="assets/icons/social/svg/youtube/default.svg" width="52" height="40" alt="Youtube logo"/></a>
   <a href="https://github.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/github/default.svg" width="52" height="40" alt="GitHUb logo"/></a>
-  <a href="https://gitlab.com/jissbossh" target="_blank"><img src="assets/icons/social/svg/gitlab/default.svg" width="52" height="40" alt="GitLab logo"/></a>
+  <a href="https://gitlab.com/jissbossh/jissbossh" target="_blank"><img src="assets/icons/social/svg/gitlab/default.svg" width="52" height="40" alt="GitLab logo"/></a>
   <a href="https://bitbucket.org/jissbossh/jissbossh" target="_blank"><img src="assets/icons/social/svg/bitbucket/default.svg" width="52" height="40" alt="BitBucket logo"/></a>
 </div>
 
 <hr>
 
-## 💻 Tecnologías:
+## 💻 Technologys:
 <!--![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,7 +92,7 @@
 
 <hr>
 
-## <⁄> Lenguajes:<br><hr style="border: 2px solid black;">
+## <⁄> Languages:<br><hr style="border: 2px solid black;">
 <div align="left">
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
 <a href="https://learn.microsoft.com/en-us/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
@@ -106,7 +106,7 @@
 
 <!--<hr>
 
-## 📊 Estadísticas de GitHub:
+## 📊 GitHub Stats:
 <div align="left"> 
   <div align="left">
     <img width="500" height="200" src="https://github-readme-stats.vercel.app/api?username=jissbossh&theme=radical&hide_border=false&include_all_commits=true&count_private=true&card_width=500" alt="Github Stats"/>
@@ -121,20 +121,20 @@
 
 <hr>
 
-## 🔝 Repositorio más Contribuido:
+## 🔝 Top Contributed Repo:
 <div align="left"><img src="https://github-contributor-stats.vercel.app/api?username=jissbossh&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_contributor_rank=false"/>
 </div>
 
 <hr>
 
-## 🏆 Trofeos de GitHub:
+## 🏆 GitHub Trophies:
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=jissbossh&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 </div>
 
 <hr>
 
-## 🧿 Visitantes:
+## 🧿 Visitors:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=jissbossh.jissbossh&theme=radical&format=true" alt="Visitor badge"/>
   </div>
@@ -145,9 +145,9 @@
 
 <hr>
 
-## 👁 Vistos:
+## 👁 Views:
 <div align="center"><img src="https://profile-counter.glitch.me/jissbossh/count.svg?&theme=radical&format=true" height="40" width="200" alt="Visitor badge"/><hr>
-</div>--> 
+</div> -->
 
 <!--
 Here are some ideas to get you started:
@@ -160,4 +160,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-<⁄>
 -->
