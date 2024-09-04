@@ -87,7 +87,7 @@
 
 <hr>
 
-## </> Lenguages:
+## </> Lenguajes:
 <div align="left">
 <a href="https://learn.microsoft.com/es-es/dotnet/csharp/" target="_blank"><img src="assets/icons/techs/svg/csharp/default.svg" width="52" height="40" alt="C# logo"/></a>
 <a href="https://learn.microsoft.com/es-es/dotnet/visual-basic/" target="_blank"><img src="assets/icons/techs/svg/vb/default.svg" width="52" height="40" alt="Visual Basic logo"/></a>
