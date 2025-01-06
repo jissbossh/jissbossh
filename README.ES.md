@@ -104,6 +104,19 @@
 <a href="https://developer.mozilla.org/en/docs/Web/CSS" target="_blank"><img src="assets/icons/techs/svg/css/default.svg" width="52" height="40" alt="Css logo"/></a>
 </div>
 
+<hr>
+
+## 🏆 Insignia:<br><hr style="border: 2px solid black;">
+<div align="left">
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-AluraFlix.png" width="300" height="300" alt="Alura Flix"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-AluraGeek.png" width="300" height="300" alt="Alura Geek"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Conversor.png" width="300" height="300" alt="Conversor"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Ecriptador.png" width="300" height="300" alt="Ecriptador"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-LiterAlura.png" width="300" height="300" alt="Liter Alura"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Portfólio.png" width="300" height="300" alt="Portfólio"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Spring.png" width="300" height="300" alt="Spring"/></a>
+</div>
+
 <!--<hr>
 
 ## 📊 Estadísticas de GitHub:
