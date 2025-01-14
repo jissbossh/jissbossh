@@ -115,6 +115,8 @@
 <a href="" target="_blank"><img src="assets/images/insignias/png/Badge-LiterAlura.png" width="300" height="300" alt="Liter Alura"/></a>
 <a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Portfólio.png" width="300" height="300" alt="Portfólio"/></a>
 <a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Spring.png" width="300" height="300" alt="Spring"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Cloud-Computing.png" width="300" height="300" alt="Cloud Computing"/></a>
+<a href="" target="_blank"><img src="assets/images/insignias/png/Badge-Cyber-Security.png" width="300" height="300" alt="Cyber Security"/></a>
 </div>
 
 <!--<hr>
