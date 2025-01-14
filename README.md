@@ -116,6 +116,7 @@
 <img src="assets/images/insignias/png/Badge-Portfólio.png" width="300" height="300" alt="Portfólio"/>
 <img src="assets/images/insignias/png/Badge-Spring.png" width="300" height="300" alt="Spring"/>
 <img src="assets/images/insignias/png/Badge-Cloud-Computing.png" width="300" height="300" alt="Cloud Computing"/>
+<img src="assets/images/insignias/png/Badge-Cyber-Security.png" width="300" height="300" alt="Cyber Security"/>
 <img src="assets/images/insignias/png/Badge-Cyber-Security1.png" width="300" height="300" alt="Cyber Security"/>
 </div>
 
