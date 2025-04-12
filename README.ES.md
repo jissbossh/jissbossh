@@ -34,6 +34,8 @@
 <div align="center">
   <a href="https://app.aluracursos.com/user/jissbossh
 " target="_blank"><img src="assets/icons/social/svg/alura/default.svg" width="52" height="40" alt="Alura logo"/></a>
+  <a href="https://app.aluracursos.com/emprega-one/profile/jissbossg
+" target="_blank"><img src="https://aprende.goodneighbors.cl/wp-content/uploads/2022/02/ONE_logo_rgb-768x408.png" width="52" height="40" alt="Oracle One logo"/></a>
   <a href="https://dev.to/jissbossh" target="_blank"><img src="assets/icons/social/svg/devto/default.svg" width="52" height="40" alt="Dev.To logo"/></a>
   <a href="https://discord.gg/JGSBF8UMup
 " target="_blank"><img src="assets/icons/social/svg/discord/default.svg" width="52" height="40" alt="Discord logo"/></a>
