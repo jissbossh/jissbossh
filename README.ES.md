@@ -110,16 +110,16 @@
 
 ## 🏆 Insignia:<br><hr style="border: 2px solid black;">
 <div align="left">
-<img src="assets/images/insignias/png/Badge-AluraFlix.png" width="300" height="300" alt="Alura Flix"/>
-<img src="assets/images/insignias/png/Badge-AluraGeek.png" width="300" height="300" alt="Alura Geek"/>
-<img src="assets/images/insignias/png/Badge-Conversor.png" width="300" height="300" alt="Conversor"/>
-<img src="assets/images/insignias/png/Badge-Ecriptador.png" width="300" height="300" alt="Ecriptador"/>
-<img src="assets/images/insignias/png/Badge-LiterAlura.png" width="300" height="300" alt="Liter Alura"/>
-<img src="assets/images/insignias/png/Badge-Portfólio.png" width="300" height="300" alt="Portfólio"/>
-<img src="assets/images/insignias/png/Badge-Spring.png" width="300" height="300" alt="Spring"/>
-<img src="assets/images/insignias/png/Badge-Cloud-Computing.png" width="300" height="300" alt="Cloud Computing"/>
-<img src="assets/images/insignias/png/Badge-Cyber-Security.png" width="300" height="300" alt="Cyber Security"/>
-<img src="assets/images/insignias/png/Badge-Cyber-Security1.png" width="300" height="300" alt="Cyber Security"/>
+<img src="assets/images/insignias/png/Badge-AluraFlix.png" width="100" height="100" alt="Alura Flix"/>
+<img src="assets/images/insignias/png/Badge-AluraGeek.png" width="100" height="100" alt="Alura Geek"/>
+<img src="assets/images/insignias/png/Badge-Conversor.png" width="100" height="100" alt="Conversor"/>
+<img src="assets/images/insignias/png/Badge-Ecriptador.png" width="100" height="100" alt="Ecriptador"/>
+<img src="assets/images/insignias/png/Badge-LiterAlura.png" width="100" height="100" alt="Liter Alura"/>
+<img src="assets/images/insignias/png/Badge-Portfólio.png" width="100" height="100" alt="Portfólio"/>
+<img src="assets/images/insignias/png/Badge-Spring.png" width="100" height="100" alt="Spring"/>
+<img src="assets/images/insignias/png/Badge-Cloud-Computing.png" width="100" height="100" alt="Cloud Computing"/>
+<img src="assets/images/insignias/png/Badge-Cyber-Security.png" width="100" height="100" alt="Cyber Security"/>
+<img src="assets/images/insignias/png/Badge-Cyber-Security1.png" width="100" height="100" alt="Cyber Security"/>
 </div>
 
 <!--<hr>
