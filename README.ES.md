@@ -110,16 +110,61 @@
 
 ## 🏆 Insignia:<br><hr style="border: 2px solid black;">
 <div align="left">
+<div>
 <img src="assets/images/insignias/png/Badge-AluraFlix.png" width="100" height="100" alt="Alura Flix"/>
+<br/>
+<label>Alura Flix</label>   
+</div>
+<div>  
 <img src="assets/images/insignias/png/Badge-AluraGeek.png" width="100" height="100" alt="Alura Geek"/>
+<br/>
+<label>Alura Geek</label>   
+</div>  
+<div>  
 <img src="assets/images/insignias/png/Badge-Conversor.png" width="100" height="100" alt="Conversor"/>
+<br/>
+<label>Alura Conversor</label>   
+</div>  
+<div>  
 <img src="assets/images/insignias/png/Badge-Ecriptador.png" width="100" height="100" alt="Ecriptador"/>
+<br/>
+<label>Alura Ecriptador</label>   
+</div>  
+<div>  
 <img src="assets/images/insignias/png/Badge-LiterAlura.png" width="100" height="100" alt="Liter Alura"/>
+<br/>
+<label>Liter Alura</label>   
+</div>
+<div>  
 <img src="assets/images/insignias/png/Badge-Portfólio.png" width="100" height="100" alt="Portfólio"/>
+<br/>
+<label>Alura Portfólio</label>   
+</div>
+<div>  
 <img src="assets/images/insignias/png/Badge-Spring.png" width="100" height="100" alt="Spring"/>
+<br/>
+<label>Alura Spring</label>   
+</div>
+<div>  
 <img src="assets/images/insignias/png/Badge-Cloud-Computing.png" width="100" height="100" alt="Cloud Computing"/>
+<br/>
+<label>Cloud Computing</label>   
+</div>
+<div>  
 <img src="assets/images/insignias/png/Badge-Cyber-Security.png" width="100" height="100" alt="Cyber Security"/>
+<br/>
+<label>Cyber Security</label>   
+</div>
+<div>  
 <img src="assets/images/insignias/png/Badge-Cyber-Security1.png" width="100" height="100" alt="Cyber Security"/>
+<br/>
+<label>Cyber Security</label>   
+</div>
+<div>  
+<img src="assets/images/insignias/png/Badge-First-Feria.png" width="100" height="100" alt=""/>
+<br/>
+<label>Codigo Facilito First Feria</label>   
+</div>  
 </div>
 
 <!--<hr>
