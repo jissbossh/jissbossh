@@ -125,12 +125,12 @@
     <td align="center" style="width: 15%;">
       <img src="assets/images/insignias/png/Badge-Conversor.png" alt="Alura Conversor Moneda" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>One Alura Conversor Moneda</p>
+      <p>One Alura Currency Converter</p>
     </td>
     <td align="center" style="width: 15%;">
       <img src="assets/images/insignias/png/Badge-Ecriptador.png" alt="Alura Ecriptador de Texto" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>One Alura Ecriptador de Texto</p>
+      <p>One Alura Text Encryptor</p>
     </td>
   </tr>
   <tr>
@@ -169,12 +169,12 @@
     <td align="center" style="width: 25%;">
       <img src="assets/images/insignias/png/Badge-First-Feria.png" alt="Primera Feria" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>Codigo Facilito Primera Feria</p>
+      <p>Codigo Facilito First Fair</p>
     </td>
     <td align="center" style="width: 25%;">
       <img src="assets/images/insignias/png/Badge-Explorador.png" alt="Explorador" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>Codigo Facilito Explorador</p>
+      <p>Codigo Facilito Explorer</p>
     </td>
   </tr>
   <tr>
@@ -186,12 +186,12 @@
     <td align="center" style="width: 25%;">
       <img src="assets/images/insignias/png/Badge-Compilador-Novato.png" alt="Compilador Novato" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>Codigo Facilito Compilador Novato</p>
+      <p>Codigo Facilito Novice Compiler</p>
     </td>
     <td align="center" style="width: 25%;">
       <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="Maestro Algoritmo" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>Codigo Facilito Maestro Algoritmo</p>
+      <p>Codigo Facilito Master Algorithm</p>
     </td>
     <td align="center" style="width: 25%;">
       <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="Youtuber" style="max-width: 100px; width: 100%; height: auto;">
