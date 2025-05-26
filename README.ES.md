@@ -114,101 +114,115 @@
 <table align="center">
   <tr>
     <td align="center" style="width: 15%;">
-      <img src="assets/images/insignias/png/Badge-AluraFlix.png" alt="Alura Flix" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-AluraFlix.png" alt="Alura Flix" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Alura Flix</p>
     </td>
     <td align="center" style="width: 15%;">
-      <img src="assets/images/insignias/png/Badge-AluraGeek.png" alt="Alura Geek" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-AluraGeek.png" alt="Alura Geek" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Alura Geek</p>
     </td>
     <td align="center" style="width: 15%;">
-      <img src="assets/images/insignias/png/Badge-Conversor.png" alt="Alura Conversor Moneda" style="max-width: 100px; width: 100%;  height: auto;"> 
-     <br>
+      <img src="assets/images/insignias/png/Badge-Conversor.png" alt="Alura Conversor Moneda" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Alura Conversor Moneda</p>
     </td>
     <td align="center" style="width: 15%;">
-      <img src="assets/images/insignias/png/Badge-Ecriptador.png" alt="Alura Ecriptador de Texto" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Ecriptador.png" alt="Alura Ecriptador de Texto" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Alura Ecriptador de Texto</p>
-    </td>  
+    </td>
   </tr>
   <tr>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-LiterAlura.png" alt="Liter Alura" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-LiterAlura.png" alt="Liter Alura" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Liter Alura</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Portfólio.png" alt="Alura Portfólio" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Portfólio.png" alt="Alura Portfólio" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Alura Portfólio</p>
     </td>
-      <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Spring.png" alt="Alura Spring" style="max-width: 100px; width: 100%; height: auto;"> 
-  <br>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Spring.png" alt="Alura Spring" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>One Alura Spring</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Cloud-Computing.png" alt="Cloud Computing" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Cloud-Computing.png" alt="Cloud Computing" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>SenaTec Cloud Computing</p>
-    </td> 
+    </td>
   </tr>
   <tr>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Cyber-Security.png" alt="Cyber Security" style="max-width: 100px; width: 100%;  height: auto;">
+      <img src="assets/images/insignias/png/Badge-Cyber-Security.png" alt="Cyber Security" style="max-width: 100px; width: 100%; height: auto;">
       <br>
       <p>SenaTec Cyber Security</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Cyber-Security1.png" alt="Cyber Security" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Cyber-Security1.png" alt="Cyber Security" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Cisco Cyber Security</p>
     </td>
-      <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-First-Feria.png" alt="Primera Feria" style="max-width: 100px; width: 100%; height: auto;"> 
-     <br>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-First-Feria.png" alt="Primera Feria" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Primera Feria</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Explorador.png" alt="Explorador" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Explorador.png" alt="Explorador" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Explorador</p>
-    </td> 
+    </td>
   </tr>
   <tr>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Hello-World.png" alt="" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Hello-World.png" alt="" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Hello World</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Compilador-Novato.png" alt="Compilador Novato" style="max-width: 100px; width: 100%;  height: auto;"> 
-     <br>
+      <img src="assets/images/insignias/png/Badge-Compilador-Novato.png" alt="Compilador Novato" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Compilador Novato</p>
     </td>
-      <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="Maestro Algoritmo" style="max-width: 100px; width: 100%; height: auto;"> 
-     <br>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="Maestro Algoritmo" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Maestro Algoritmo</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="Youtuber" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="Youtuber" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Youtuber</p>
-    </td> 
+    </td>
   </tr>
-    <tr>
+  <tr>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Python-Backend.png" alt="Python BackEnd" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Python-Backend.png" alt="Python BackEnd" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito Python BackEnd</p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Fullstack.png" alt="FullStack" style="max-width: 100px; width: 100%;  height: auto;"> 
-    <br>
+      <img src="assets/images/insignias/png/Badge-Fullstack.png" alt="FullStack" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p>Codigo Facilito FullStack</p>
     </td>
-      <!--<td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="" style="max-width: 100px; width: 100%; height: auto;"> 
-     <br>
+    <!--
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p></p>
     </td>
     <td align="center" style="width: 25%;">
-      <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="" style="max-width: 100px; width: 100%; height: auto;">
+      <br>
       <p></p>
-    </td>-->  
+    </td>
+    -->
   </tr>
 </table>
 
