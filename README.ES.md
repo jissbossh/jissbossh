@@ -131,7 +131,7 @@
     <td align="center" style="width: 15%;">
       <img src="assets/images/insignias/png/Badge-Ecriptador.png" alt="Alura Ecriptador de Texto" style="max-width: 100px; width: 100%; height: auto;">
       <br>
-      <p>One Alura Ecriptador de Texto</p>
+      <p>One Alura Ecriptador Texto</p>
     </td>
   </tr>
   <tr>
