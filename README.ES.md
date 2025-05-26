@@ -108,66 +108,128 @@
 
 <hr>
 
+
 ## 🏆 Insignia:<br><hr style="border: 2px solid black;">
+
+<table align="center">
+  <tr>
+    <td align="center" style="width: 15%;">
+      <img src="assets/images/insignias/png/Badge-AluraFlix.png" alt="Alura Flix" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>One Alura Flix</p>
+    </td>
+    <td align="center" style="width: 15%;">
+      <img src="assets/images/insignias/png/Badge-AluraGeek.png" alt="Alura Geek" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>One Alura Geek</p>
+    </td>
+    <td align="center" style="width: 15%;">
+      <img src="assets/images/insignias/png/Badge-Conversor.png" alt="Alura Conversor Moneda" style="max-width: 100px; width: 100%;  height: auto;"> 
+     <br>
+      <p>One Alura Conversor Moneda</p>
+    </td>
+    <td align="center" style="width: 15%;">
+      <img src="assets/images/insignias/png/Badge-Ecriptador.png" alt="Alura Ecriptador de Texto" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>One Alura Ecriptador de Texto</p>
+    </td>  
+  </tr>
+  <tr>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-LiterAlura.png" alt="Liter Alura" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>One Liter Alura</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Portfólio.png" alt="Alura Portfólio" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>One Alura Portfólio</p>
+    </td>
+      <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Spring.png" alt="Alura Spring" style="max-width: 100px; width: 100%; height: auto;"> 
+  <br>
+      <p>One Alura Spring</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Cloud-Computing.png" alt="Cloud Computing" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>SenaTec Cloud Computing</p>
+    </td> 
+  </tr>
+  <tr>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Cyber-Security.png" alt="Cyber Security" style="max-width: 100px; width: 100%;  height: auto;">
+      <br>
+      <p>SenaTec Cyber Security</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Cyber-Security1.png" alt="Cyber Security" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>Cisco Cyber Security</p>
+    </td>
+      <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-First-Feria.png" alt="Primera Feria" style="max-width: 100px; width: 100%; height: auto;"> 
+     <br>
+      <p>Codigo Facilito Primera Feria</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Explorador.png" alt="Explorador" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>Codigo Facilito Explorador</p>
+    </td> 
+  </tr>
+  <tr>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Hello-World.png" alt="" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>Codigo Facilito Hello World</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Compilador-Novato.png" alt="Compilador Novato" style="max-width: 100px; width: 100%;  height: auto;"> 
+     <br>
+      <p>Codigo Facilito Compilador Novato</p>
+    </td>
+      <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="Maestro Algoritmo" style="max-width: 100px; width: 100%; height: auto;"> 
+     <br>
+      <p>Codigo Facilito Maestro Algoritmo</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="Youtuber" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>Codigo Facilito Youtuber</p>
+    </td> 
+  </tr>
+    <tr>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Python-Backend.png" alt="Python BackEnd" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p>Codigo Facilito Python BackEnd</p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Fullstack.png" alt="FullStack" style="max-width: 100px; width: 100%;  height: auto;"> 
+    <br>
+      <p>Codigo Facilito FullStack</p>
+    </td>
+      <!--<td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Maestro-de-Algoritmo.png" alt="" style="max-width: 100px; width: 100%; height: auto;"> 
+     <br>
+      <p></p>
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="assets/images/insignias/png/Badge-Youtuber.png" alt="" style="max-width: 100px; width: 100%;  height: auto;"><br>
+      <p></p>
+    </td>-->  
+  </tr>
+</table>
+
+<!--
 <div align="left">
-<div>
 <img src="assets/images/insignias/png/Badge-AluraFlix.png" width="100" height="100" alt="Alura Flix"/>
-<br/>
-<label>Alura Flix</label>   
-</div>
-<div>  
 <img src="assets/images/insignias/png/Badge-AluraGeek.png" width="100" height="100" alt="Alura Geek"/>
-<br/>
-<label>Alura Geek</label>   
-</div>  
-<div>  
 <img src="assets/images/insignias/png/Badge-Conversor.png" width="100" height="100" alt="Conversor"/>
-<br/>
-<label>Alura Conversor</label>   
-</div>  
-<div>  
-<img src="assets/images/insignias/png/Badge-Ecriptador.png" width="100" height="100" alt="Ecriptador"/>
-<br/>
-<label>Alura Ecriptador</label>   
-</div>  
-<div>  
-<img src="assets/images/insignias/png/Badge-LiterAlura.png" width="100" height="100" alt="Liter Alura"/>
-<br/>
-<label>Liter Alura</label>   
-</div>
-<div>  
-<img src="assets/images/insignias/png/Badge-Portfólio.png" width="100" height="100" alt="Portfólio"/>
-<br/>
-<label>Alura Portfólio</label>   
-</div>
-<div>  
-<img src="assets/images/insignias/png/Badge-Spring.png" width="100" height="100" alt="Spring"/>
-<br/>
-<label>Alura Spring</label>   
-</div>
-<div>  
+<img src="assets/images/insignias/png/Badge-Ecriptador.png" width="100" height="100" alt="Ecriptador"/>  
+<img src="assets/images/insignias/png/Badge-LiterAlura.png" width="100" height="100" alt="Liter Alura"/>  
+<img src="assets/images/insignias/png/Badge-Portfólio.png" width="100" height="100" alt="Portfólio"/>  
+<img src="assets/images/insignias/png/Badge-Spring.png" width="100" height="100" alt="Spring"/>  
 <img src="assets/images/insignias/png/Badge-Cloud-Computing.png" width="100" height="100" alt="Cloud Computing"/>
-<br/>
-<label>Cloud Computing</label>   
-</div>
-<div>  
 <img src="assets/images/insignias/png/Badge-Cyber-Security.png" width="100" height="100" alt="Cyber Security"/>
-<br/>
-<label>Cyber Security</label>   
-</div>
-<div>  
-<img src="assets/images/insignias/png/Badge-Cyber-Security1.png" width="100" height="100" alt="Cyber Security"/>
-<br/>
-<label>Cyber Security</label>   
-</div>
-<div>  
-<img src="assets/images/insignias/png/Badge-First-Feria.png" width="100" height="100" alt=""/>
-<br/>
-<label>Codigo Facilito First Feria</label>   
-</div>  
+  
+<img src="assets/images/insignias/png/Badge-Cyber-Security1.png" width="100" height="100" alt="Cyber Security"/> 
+<img src="assets/images/insignias/png/Badge-First-Feria.png" width="100" height="100" alt="First-Feria"/>
+
 </div>
 
-<!--<hr>
+<hr>
 
 ## 📊 Estadísticas de GitHub:
 <div align="left"> 
